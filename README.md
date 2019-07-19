@@ -1,0 +1,2 @@
+# NVRAMManager
+NVRAM Manager Class
